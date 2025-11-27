@@ -11,7 +11,7 @@
 
 ## 🕶️ About Me
 I'm **Ruchira Madushan**, a software engineer passionate about building intelligent systems and modern full-stack applications.  
-I explore emerging technologies, machine learning, and scalable software solutions — always aiming to understand how things work beneath the surface.
+I explore emerging technologies, machine learning, and scalable software solutions, always aiming to understand how things work beneath the surface.
 
 ---
 
