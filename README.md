@@ -4,7 +4,7 @@
 <!-- ============================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Tech+Explorer+%7C+Problem+Solver;Welcome+to+My+GitHub+Repository" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Tech+Explorer+%7C+Problem+Solver;Welcome" />
 </h1>
 
 ---
