@@ -1,21 +1,29 @@
 <!-- ============================= -->
 <!--  R U C H I R A   M A D U S H A N -->
-<!--     Hacker-Themed GitHub Profile -->
 <!-- ============================= -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Tech+Explorer+%7C+Problem+Solver;Welcome" />
 </h1>
 
+<div align="center">
+  <img src="https://media.tenor.com/1nRk-xVxBt0AAAAC/hacker-hackerman.gif" width="350" />
+</div>
+
+<h1 align="center">
+  <img src="https://lottie.host/a88d875a-34d1-4428-8c31-636c7494442e/mpLd36WyLk.gif" alt="Glitch Hacker Animation" width="300" height="300">
+</h1>
+
+
 ---
 
-## 🕶️ About Me
-I'm **Ruchira Madushan**, a software engineer passionate about building intelligent systems and modern full-stack applications.  
+## About Me
+I'm **Ruchira Madushan**, a fresh graduate software engineer passionate about building intelligent systems and modern full-stack applications.
 I explore emerging technologies, machine learning, and scalable software solutions, always aiming to understand how things work beneath the surface.
 
 ---
 
-## || Tech Stack & Tools ||
+## ▪️Tech Stack & Tools▪️
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
@@ -54,7 +62,7 @@ I explore emerging technologies, machine learning, and scalable software solutio
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 ---
 
-## || Featured Projects ||
+## ▪️Featured Projects▪️
 
 <div align="center">
 
@@ -88,20 +96,22 @@ I explore emerging technologies, machine learning, and scalable software solutio
 
 ---
 
-## || Education ||
+## ▪️Education▪️
 - **BSc (Hons) Software Engineering** – Cardiff Metropolitan University  
 - **Higher Diploma in Computing & Software Engineering (Merit)** – ICBT  
 - **AI/ML Engineer – Stage 1** – SLIIT  
-- **Python for Beginners** – University of Moratuwa  
+- **Python for Beginners** – University of Moratuwa
+- **C.W.W. Kannangara Central College**, Mathugama - School
 
 ---
 
-## || Interests ||
+## ▪️Interests▪️
 - Machine Learning  
 - Artificial Intelligence  
 - Full-Stack Engineering  
 - System Optimization  
-- Software Architecture  
+- Software Architecture
+- Cybersecurity  
 
 ---
 
