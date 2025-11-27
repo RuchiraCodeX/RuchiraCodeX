@@ -21,6 +21,7 @@ I explore emerging technologies, machine learning, and scalable software solutio
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frontend
@@ -28,6 +29,7 @@ I explore emerging technologies, machine learning, and scalable software solutio
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
@@ -45,6 +47,11 @@ I explore emerging technologies, machine learning, and scalable software solutio
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
+### Testing & QA
+![Selenium](https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 ---
 
 ## || Featured Projects ||
@@ -68,9 +75,12 @@ I explore emerging technologies, machine learning, and scalable software solutio
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=RuchiraCodeX&show_icons=true&theme=highcontrast&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RuchiraCodeX&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="RuchiraCodeX's GitHub Stats" width="49%" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiraCodeX&layout=compact&theme=highcontrast&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiraCodeX&layout=compact&theme=github_dark&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages"/>
+</p>
+
 
 <img height="180" src="https://streak-stats.demolab.com/?user=RuchiraCodeX&theme=highcontrast&hide_border=true" />
 
