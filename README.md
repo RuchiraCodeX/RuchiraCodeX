@@ -15,7 +15,7 @@ I explore emerging technologies, machine learning, and scalable software solutio
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## || Tech Stack & Tools ||
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
@@ -47,7 +47,7 @@ I explore emerging technologies, machine learning, and scalable software solutio
 
 ---
 
-## 🔥 Featured Projects
+## || Featured Projects ||
 
 <div align="center">
 
@@ -65,7 +65,6 @@ I explore emerging technologies, machine learning, and scalable software solutio
 
 ---
 
-## 📊 GitHub Stats (Dark Mode)
 
 <div align="center">
 
@@ -79,7 +78,7 @@ I explore emerging technologies, machine learning, and scalable software solutio
 
 ---
 
-## 🎓 Education
+## || Education ||
 - **BSc (Hons) Software Engineering** – Cardiff Metropolitan University  
 - **Higher Diploma in Computing & Software Engineering (Merit)** – ICBT  
 - **AI/ML Engineer – Stage 1** – SLIIT  
@@ -87,7 +86,7 @@ I explore emerging technologies, machine learning, and scalable software solutio
 
 ---
 
-## 🧠 Interests
+## || Interests ||
 - Machine Learning  
 - Artificial Intelligence  
 - Full-Stack Engineering  
@@ -96,7 +95,7 @@ I explore emerging technologies, machine learning, and scalable software solutio
 
 ---
 
-## 📡 Connect with Me
+## :) Connect with Me
 - **GitHub:** https://github.com/RuchiraCodeX  
 - **LinkedIn:** https://www.linkedin.com/in/ruchira-madushan-316773286/  
 - **Email:** ruchiramadhu2001@gmail.com  
