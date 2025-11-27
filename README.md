@@ -11,7 +11,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://lottie.host/a88d875a-34d1-4428-8c31-636c7494442e/mpLd36WyLk.gif" alt="Glitch Hacker Animation" width="300" height="300">
+  <img src="https://github.com/RuchiraCodeX/RuchiraCodeX/blob/main/Gif%20file.gif" alt="Glitch Hacker Animation" width="300" height="300">
 </h1>
 
 
