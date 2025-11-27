@@ -2,20 +2,18 @@
 <!--  R U C H I R A   M A D U S H A N -->
 <!-- ============================= -->
 
-<h1 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Tech+Explorer+%7C+Problem+Solver;Welcome" />
-</h1>
+  <br/>
+  <img 
+    src="https://github.com/RuchiraCodeX/RuchiraCodeX/blob/main/Giffile.gif" 
+    alt="Glitch Hacker Animation" 
+    width="100" 
+    height="100"
+    style="margin-top:-21px;"
+  />
+</p>
 
-<div align="center">
-  <img src="https://media.tenor.com/1nRk-xVxBt0AAAAC/hacker-hackerman.gif" width="350" />
-</div>
-
-<h1 align="center">
-  <img src="https://github.com/RuchiraCodeX/RuchiraCodeX/blob/main/Giffile.gif" alt="Glitch Hacker Animation" width="300" height="300">
-</h1>
-
-
----
 
 ## About Me
 I'm **Ruchira Madushan**, a fresh graduate software engineer passionate about building intelligent systems and modern full-stack applications.
